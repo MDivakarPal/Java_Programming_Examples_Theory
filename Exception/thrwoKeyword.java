@@ -6,7 +6,6 @@ throw Keyword:-
 3. printStackTrace() method is defined in Throwable class and displays trace of exception object 
 	with error message.
 4.  getMessage() method is also method of Throwable class which returns error message as string.
-
 if we want to create a checked exception then we should extend our exception class by Exception class.
 */
 
@@ -37,11 +36,6 @@ class ThrowKeyword
 		
 	}
 }
-
-
-
-
-
 // Example of unchecked exception.
 class Uncheked extends RuntimeException
 {
