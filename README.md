@@ -6,5 +6,5 @@ Repository contains java concepts theory with example
 <b><a href="https://mail.google.com/mail/u/1/#inbox?compose=VpCqJbPWSnzGvNkrQRMNcGvhqXHNQGGlnWRprSwjPqsRKsZtXNRSsWpwLCnjwNmJTPGxBGq">pdivakarpal@gmail.com</a></b>
 <h2>Follow me on Social Media</h2>
 <h4><a href="https://twitter.com/MDivakarPal">Twitter</a></h4>
-<h4><a href="https://www.instagram.com/mdivakarpal/">Twitter</a></h4>
+<h4><a href="https://www.instagram.com/mdivakarpal/">Instagram</a></h4>
 
