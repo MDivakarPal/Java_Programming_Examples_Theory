@@ -24,7 +24,7 @@ class Array
 	{
 		Scanner sc=new Scanner(System.in);
 		int n; 
-		System.out.println("Enter size of Array");
+		System.out.println("Enter length of Array");
 		n=sc.nextInt();
 		int num[]=new int[n];
 		System.out.println("Enter your Array");
